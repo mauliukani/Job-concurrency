@@ -1,4 +1,4 @@
-name: Deploy Next Js App
+name: Deploy Next Js App app.
 
 on: 
   push:
